@@ -5,6 +5,13 @@
 
 ## Как запустить ноутбук
 
+### 0. Клонирование репозитория
+
+```bash
+git clone https://github.com/sergeevsn/twt_notebooks.git
+cd twt_notebooks
+```
+
 ### 1. Локально с Python и venv
 
 ```bash
@@ -25,10 +32,14 @@ jupyter notebook
 
 ### 2. С помощью Google Colab
 
+#### Вариант A: Открыть прямо с GitHub
 1. Откройте [colab.research.google.com](https://colab.research.google.com)
-2. File → Upload notebook → выберите `01_timefreq.ipynb`
-3. Добавьте ячейку в начало:
-   ```python
-   !pip install numpy matplotlib scipy
-   ```
-4. Runtime → Run all
+2. File → Open notebook → GitHub
+3. Введите URL: `https://github.com/sergeevsn/twt_notebooks`
+4. Выберите файл `01_freq_time_uncertainty_bpf.ipynb`
+5. Runtime → Run all
+
+#### Вариант B: Загрузить файл
+1. Откройте [colab.research.google.com](https://colab.research.google.com)
+2. File → Upload notebook → выберите `01_freq_time_uncertainty_bpf.ipynb`
+3. Runtime → Run all
