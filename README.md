@@ -1,6 +1,8 @@
 # Ноутбуки для канала https://t.me/twowaytime
 
 ```01_freq_time_uncertainty_bpf.ipynb``` Принцип частотно-временной неопределённости сигналов.
+```02_ormsby_filter_wavelet.ipynb``` Ormsby Bandpass: Ракетный фильтр на службе геофизика.
+```03_pef_deconvolution.ipybv``` Prediction Error Filter (PEF) в сейсморазведке: Деконволюция
 ...
 
 ## Как запустить ноутбук
