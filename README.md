@@ -2,7 +2,8 @@
 
 ```01_freq_time_uncertainty_bpf.ipynb``` Принцип частотно-временной неопределённости сигналов.
 ```02_ormsby_filter_wavelet.ipynb``` Ormsby Bandpass: Ракетный фильтр на службе геофизика.
-```03_pef_deconvolution.ipybv``` Prediction Error Filter (PEF) в сейсморазведке: Деконволюция
+```03_pef_deconvolution.ipybb``` Prediction Error Filter (PEF) в сейсморазведке: Деконволюция
+```04_acoustic_modelling.ipynb``` 2D FD моделирования волнового поля в акустическом приближении
 ...
 
 ## Как запустить ноутбук
