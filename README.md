@@ -4,6 +4,9 @@
 ```02_ormsby_filter_wavelet.ipynb``` Ormsby Bandpass: Ракетный фильтр на службе геофизика.
 ```03_pef_deconvolution.ipybb``` Prediction Error Filter (PEF) в сейсморазведке: Деконволюция
 ```04_acoustic_modelling.ipynb``` 2D FD моделирования волнового поля в акустическом приближении
+```05_pylops_kirchhoff.ipynb``` Kirchhoff моделирование/миграция с помощью библиотеки PyLops
+```06_rtm.ipynb``` Reverse Time Migration (RTM) 
+```07_pylops_lsm.ipynb``` Least Squares Migration (LSM) с помощью библиотеки PyLops
 ...
 
 ## Как запустить ноутбук
