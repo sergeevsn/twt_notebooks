@@ -7,6 +7,9 @@
 ```05_pylops_kirchhoff.ipynb``` Kirchhoff моделирование/миграция с помощью библиотеки PyLops
 ```06_rtm.ipynb``` Reverse Time Migration (RTM) 
 ```07_pylops_lsm.ipynb``` Least Squares Migration (LSM) с помощью библиотеки PyLops
+```08_time_depth_kirchhoff.ipynb``` Временная миграция VS Глубинная: сравнение на примере миграции Кирхгофа
+```09_one_way_wem_poststack.ipynb``` One-Way Wave Equation Migration (миграция на основе одностороннего волнового уравнения)
+```10_xyz_polarization.ipynb``` Поляризационный анализ и трансформация 3C-данных
 ...
 
 ## Как запустить ноутбук
