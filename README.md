@@ -11,6 +11,7 @@
 ```09_one_way_wem_poststack.ipynb``` One-Way Wave Equation Migration (миграция на основе одностороннего волнового уравнения)
 ```10_vsp_polarization_prt.ipynb``` 3C ВСП: Поляризационный анализ и трансформация 3C-данных
 ```11_tuning_1d.ipynb``` Изучение тюнинг-эффекта с помощью 1D FD-моделирования
+```12_shponge_pml.ipynb``` Борьба с отражениями на границах модели: Shponge Layer vs PML
 
 ...
 
